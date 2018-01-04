@@ -113,6 +113,7 @@ int clusterization(int argc, char* argv[]) {
 		for (int j = 0; j < clusters[i].size(); j++) {
 			cout << ">>" << clusters[i][j].name << endl;
 		}
+		cout << "-------------------------" << endl;
 	}
 
 	return 0;

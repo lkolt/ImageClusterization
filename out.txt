@@ -1,0 +1,161 @@
+D:\Programming\C++\Visual studio\opencvTsest\x64\Debug>opencvTsest.exe -d D:\Downloads\memes\
+Cluster #0
+>>D:\Downloads\memes\1\1425556689_1983487690.png
+>>D:\Downloads\memes\1\1427553667_1784215639.jpg
+>>D:\Downloads\memes\1\1427889482_289292867.png
+>>D:\Downloads\memes\1\1429387177_1198757825.png
+>>D:\Downloads\memes\1\1438854943174146037.jpg
+>>D:\Downloads\memes\1\143886286817617326.png
+>>D:\Downloads\memes\14\0_829b4_f642f15c_orig.jpg
+>>D:\Downloads\memes\14\1427311310_1216636224.jpg
+>>D:\Downloads\memes\14\14792194976580.jpg
+>>D:\Downloads\memes\14\1507456251_81komiks64587.jpg
+>>D:\Downloads\memes\14\58438e12eb239.jpeg
+>>D:\Downloads\memes\14\62E.jpg
+>>D:\Downloads\memes\14\d21.png
+>>D:\Downloads\memes\14\images.jpg
+>>D:\Downloads\memes\14\Iphone+dat+screen_6aec3b_4111389.jpg
+>>D:\Downloads\memes\5\1504241042132539293.jpg
+>>D:\Downloads\memes\5\1513254308128344031.jpg
+>>D:\Downloads\memes\5\1513254944144377036.jpg
+-------------------------
+Cluster #1
+>>D:\Downloads\memes\10\1395211150_802277105.jpg
+>>D:\Downloads\memes\10\1414838017_364075035.jpeg
+>>D:\Downloads\memes\10\1435600025_1771317791.jpg
+>>D:\Downloads\memes\10\sad-doge_67545493_orig_.jpg
+-------------------------
+Cluster #2
+>>D:\Downloads\memes\11\1366651916_1316837348.jpg
+>>D:\Downloads\memes\11\1372707971_616189994.jpg
+>>D:\Downloads\memes\11\1378058527_11236079.jpg
+>>D:\Downloads\memes\11\1381063293_1102014676.jpg
+>>D:\Downloads\memes\11\1394449945_1837845800.jpg
+>>D:\Downloads\memes\11\1395743877_1128334967.jpg
+>>D:\Downloads\memes\11\1397988595_1872454850.jpg
+>>D:\Downloads\memes\11\1402647163_503173375.jpg
+>>D:\Downloads\memes\11\1413554102_240357857.jpg
+>>D:\Downloads\memes\11\1443741583_1948314816.jpg
+-------------------------
+Cluster #3
+>>D:\Downloads\memes\11\1377611085_1799854601.jpg
+>>D:\Downloads\memes\11\1402315990_618767889.jpg
+-------------------------
+Cluster #4
+>>D:\Downloads\memes\12\1402750497_304528732.jpg
+>>D:\Downloads\memes\12\14027512213250.jpg
+>>D:\Downloads\memes\12\14027528114273.jpg
+>>D:\Downloads\memes\12\14027575201299.jpg
+>>D:\Downloads\memes\12\14027722322548.jpeg
+>>D:\Downloads\memes\12\14027739125135.jpg
+>>D:\Downloads\memes\12\1402777766139.jpeg
+>>D:\Downloads\memes\12\14028126123423.jpg
+>>D:\Downloads\memes\12\14028185833681.jpg
+>>D:\Downloads\memes\12\1410927784_591090283.jpg
+-------------------------
+Cluster #5
+>>D:\Downloads\memes\12\1402753432203.jpeg
+-------------------------
+Cluster #6
+>>D:\Downloads\memes\12\147118046919883890.png
+-------------------------
+Cluster #7
+>>D:\Downloads\memes\13\1422958474_1533364282.jpg
+>>D:\Downloads\memes\13\tojwxj.jpg
+>>D:\Downloads\memes\13\yang-loses-arm.jpg
+-------------------------
+Cluster #8
+>>D:\Downloads\memes\15\1425391257_687660636.png
+>>D:\Downloads\memes\15\20160830104638.jpg
+>>D:\Downloads\memes\15\FullSizeRender.jpg
+>>D:\Downloads\memes\15\images (1).jpg
+>>D:\Downloads\memes\15\images (2).jpg
+>>D:\Downloads\memes\15\images (3).jpg
+>>D:\Downloads\memes\15\images.jpg
+>>D:\Downloads\memes\15\┴хч эрчтрэш .jpg
+-------------------------
+Cluster #9
+>>D:\Downloads\memes\2\1430244420_683574244.jpg
+>>D:\Downloads\memes\2\1430596846_279174303.jpeg
+>>D:\Downloads\memes\2\1430988591_1914260116.jpg
+-------------------------
+Cluster #10
+>>D:\Downloads\memes\2\1432975569_344158277.jpg
+>>D:\Downloads\memes\2\1467889456159069550.png
+-------------------------
+Cluster #11
+>>D:\Downloads\memes\2\1453895854145260631.jpg
+-------------------------
+Cluster #12
+>>D:\Downloads\memes\3\1395070956_2128574210.jpg
+>>D:\Downloads\memes\3\1438854708_1459822025.jpg
+>>D:\Downloads\memes\3\4ce5ef3e3bea40a4b4e534f345406bbe.jpg
+>>D:\Downloads\memes\3\dikaprio_36620681_orig_.jpg
+>>D:\Downloads\memes\3\dikaprio_79636745_orig_.jpg
+-------------------------
+Cluster #13
+>>D:\Downloads\memes\3\47a151a8391df1164952293ebf3700a2_760x0_632.730.0.0.jpg
+-------------------------
+Cluster #14
+>>D:\Downloads\memes\4\1504238456128982004.jpg
+>>D:\Downloads\memes\4\1504248812116251023.jpg
+-------------------------
+Cluster #15
+>>D:\Downloads\memes\4\1504241042132539293.jpg
+-------------------------
+Cluster #16
+>>D:\Downloads\memes\4\1504252483183075346.jpg
+-------------------------
+Cluster #17
+>>D:\Downloads\memes\5\1400878365_2028388237.jpg
+>>D:\Downloads\memes\5\1432809927_1973120334.jpg
+>>D:\Downloads\memes\5\1432984425_1585563428.jpg
+>>D:\Downloads\memes\5\1464025897114134806.jpg
+>>D:\Downloads\memes\5\1465581989193296654.jpg
+-------------------------
+Cluster #18
+>>D:\Downloads\memes\5\Screenshot_2.png
+-------------------------
+Cluster #19
+>>D:\Downloads\memes\6\1436422488_601229293.jpeg
+>>D:\Downloads\memes\6\ti-govorish-devochka-vozmucshaetsya_67799635_orig_.jpg
+-------------------------
+Cluster #20
+>>D:\Downloads\memes\6\1453448830185396598.jpg
+>>D:\Downloads\memes\6\devochka-vozmucshaetsya_16570743_orig_.jpeg
+>>D:\Downloads\memes\6\vozmucshennaya-devochka_41507565_orig_.jpeg
+-------------------------
+Cluster #21
+>>D:\Downloads\memes\6\o30lim.jpg
+-------------------------
+Cluster #22
+>>D:\Downloads\memes\7\1401251987_1576083020.jpg
+>>D:\Downloads\memes\7\1422600947_37014284.jpg
+>>D:\Downloads\memes\7\1450255184134026401.jpg
+>>D:\Downloads\memes\7\nedovolnyy-pacan_100433045_orig_.jpg
+>>D:\Downloads\memes\7\nedovolnyy-pacan_114032283_orig_.jpg
+>>D:\Downloads\memes\7\nedovolnyy-pacan_67633330_orig_.jpg
+>>D:\Downloads\memes\7\nedovolnyy-pacan_93612945_orig_.jpg
+>>D:\Downloads\memes\7\p24zpu.jpg
+>>D:\Downloads\memes\7\wx1080.jpg
+-------------------------
+Cluster #23
+>>D:\Downloads\memes\7\1432127355_565907703.jpg
+-------------------------
+Cluster #24
+>>D:\Downloads\memes\8\1454004268174453092.png
+>>D:\Downloads\memes\8\1465384469151727902.jpg
+>>D:\Downloads\memes\8\1469462101127485249.png
+>>D:\Downloads\memes\8\1473184895118619521.png
+>>D:\Downloads\memes\8\148722341814799377.png
+>>D:\Downloads\memes\8\1494682736125578536.png
+>>D:\Downloads\memes\8\149823109619253740.png
+>>D:\Downloads\memes\8\1500896066135110371.jpg
+>>D:\Downloads\memes\8\1506326382122382697.png
+-------------------------
+Cluster #25
+>>D:\Downloads\memes\9\1485275691122396748.jpg
+>>D:\Downloads\memes\9\148527684612797681.jpg
+>>D:\Downloads\memes\9\14852968951220947.jpg
+>>D:\Downloads\memes\9\Jurassic_park_games.png
+-------------------------
